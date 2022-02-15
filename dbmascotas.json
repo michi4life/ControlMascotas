@@ -1,0 +1,31 @@
+{
+    "mascotas": [
+      {
+        "id": 1,
+        "especie": "Canino",
+        "raza": "Criollo",
+        "nombre": "Queeny",
+        "color": "Amarillo",
+        "fecha_nacimiento": "20/08/2011",
+        "dueño": "Adriana Trejos"
+      },
+      {
+        "id": 2,
+        "especie": "Felino",
+        "raza": "Bob Tail Japones",
+        "nombre": "Lucas",
+        "color": "Naranja con blanco",
+        "fecha_nacimiento": "31/12/2016",
+        "dueño": "Adriana Trejos"
+      },
+      {
+        "id": 3,
+        "especie": "Felino",
+        "raza": "Criollo",
+        "nombre": "Kira",
+        "color": "Gris",
+        "fecha_nacimiento": "25/01/2019",
+        "dueño": "Alvaro Gonzalez"
+      }
+    ]
+  }
